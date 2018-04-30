@@ -1,0 +1,14 @@
+body {
+	font-family: Helvetica, Arial, Sans-Serif;
+}
+
+code {
+	font-family: Menlo, Consolas, monospace;
+	font-size: 14px;
+	color: purple;
+}
+
+.greeting {
+	font-family: Impact, Sans-Serif;
+	color: rgb(23, 0, 128);
+}
